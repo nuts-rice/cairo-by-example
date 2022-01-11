@@ -1,0 +1,2 @@
+0x03b2b03068f96f3c58d0e19a91387176f0ef440fd1bdadf7a88c8e139d471d83:artifacts/abis/first_application.json:first_application
+0x078e0d5ade39cf99008208efb1902a5eedbef496daba7a3f80a55dbf958db1c8:artifacts/abis/array.json:array
